@@ -17,7 +17,11 @@ The project includes data cleaning, exploration, and applying anomaly detection 
 ## Data
 
 - The dataset used in this project is a NASA web log dataset from August 1995.
-- The data file should be in the project directory as `nasa_aug95.csv`.
+- The dataset used in this project is a NASA web log dataset from August 1995. Due to file size limitations, the data file is not included in the repository.
+
+You can download the data file from the following link:
+
+- [Download NASA Web Log Dataset](https://data.world/shad/nasa-website-data)
 
 ## Prerequisites
 
