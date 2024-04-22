@@ -44,21 +44,27 @@ You can download the data file from the following link:
 
 - The script generates various plots to visualize data distributions and anomalies:
     - Time series plot of response size.
+      
       ![image](https://github.com/IshwaryaKeerthivasan/Web-Log-Anomaly-Detection/assets/92322280/e007ef9a-8242-4c75-860d-0e78c25e5bb2)
 
     - Distribution of response size.
+      
       ![image](https://github.com/IshwaryaKeerthivasan/Web-Log-Anomaly-Detection/assets/92322280/6693d938-1f35-4feb-800c-e02b2b4868db)
 
     - Response size by status.
+      
       ![image](https://github.com/IshwaryaKeerthivasan/Web-Log-Anomaly-Detection/assets/92322280/06c79064-2b26-4134-940f-403235d15003)
 
     - Correlation heatmap.
+      
       ![image](https://github.com/IshwaryaKeerthivasan/Web-Log-Anomaly-Detection/assets/92322280/2d52020b-46b7-458e-ac77-7e5fc18fb709)
 
     - Scatter plot of anomalies in response size vs request length.
+      
       ![image](https://github.com/IshwaryaKeerthivasan/Web-Log-Anomaly-Detection/assets/92322280/aacf4f1c-4f44-4be7-9573-d23211740830)
 
     - Anomalies distribution by hour of the day and day of the week.
+  
       ![image](https://github.com/IshwaryaKeerthivasan/Web-Log-Anomaly-Detection/assets/92322280/d31dddc0-011a-4030-9a45-6e6313c73490)
       ![image](https://github.com/IshwaryaKeerthivasan/Web-Log-Anomaly-Detection/assets/92322280/2c995ae5-e39e-4d39-835a-9d9b66a2e924)
 
